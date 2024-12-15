@@ -38,7 +38,7 @@ project-folder/
 ## Screenshots
 
 ## Live Site URL
-Visit the live project here: [Live Demo](<insert-live-site-url>)
+Visit the live project here: [Live Demo]((https://ajaysingh41.github.io/my_task_10/))
 ### Desktop View:
 ![Desktop Screenshot](design/desktop-design.jpg)
 
