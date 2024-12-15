@@ -91,6 +91,9 @@ body {
 .second-section p{
     margin-bottom: 5px;    
 }
+span{
+    color:white;
+}
 .range{
     display: flex;
     justify-content: space-between;
